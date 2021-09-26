@@ -24,8 +24,8 @@ La aplicación tiene un coste de 15 USD y para su implementación requieres la b
 
 # Enlace demo de la aplicación
 
-https://mauriciosevilla.com/compartir_documentos/login.php
-Usuario: hola@configuroweb.com
+https://mauriciosevilla.com/colas/admin/login.php
+Usuario: configuroweb
 Clave: 1234abcd..
 
 # Contacto
@@ -35,4 +35,4 @@ https://configuroweb.com/WhatsappMessenger
 
 # El siguiente es el post relacionado con la aplicación
 
-https://www.configuroweb.com/sistema-gestor-de-documentos-en-linea/
+https://www.configuroweb.com/sistema-gestor-de-turnos-en-php-y-mysql/
