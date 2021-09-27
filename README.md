@@ -35,4 +35,4 @@ https://configuroweb.com/WhatsappMessenger
 
 # El siguiente es el post relacionado con la aplicación
 
-https://www.configuroweb.com/sistema-gestor-de-turnos-en-php-y-mysql/
+https://www.configuroweb.com/sistema-acortador-de-enlaces-en-php-y-mysql/
